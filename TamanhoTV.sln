@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TamanhoTV", "TamanhoTV.pyproj", "{BE01B1E4-806B-44C0-B64C-F53F58E910AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE01B1E4-806B-44C0-B64C-F53F58E910AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE01B1E4-806B-44C0-B64C-F53F58E910AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {885B78C4-7C18-4A14-A691-9F82232B5F7D}
+	EndGlobalSection
+EndGlobal
